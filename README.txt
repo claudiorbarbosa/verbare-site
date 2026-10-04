@@ -1,17 +1,21 @@
 VERBARE — NUNCA IMAGINEI
 ========================
 
-Conteúdo:
-- index.html: site completo, responsivo e sem dependências externas.
+Versão atualizada segundo a identidade visual oficial enviada em outubro de 2026.
 
-Publicação rápida com GitHub Pages:
-1. Crie um repositório no GitHub, por exemplo: verbare-site.
-2. Envie o arquivo index.html para a raiz do repositório.
-3. Vá em Settings > Pages.
-4. Em Build and deployment, escolha Deploy from a branch.
-5. Selecione main e /(root), depois Save.
-6. Em Custom domain, informe: verbare.com.br
-7. No Registro.br, configure o DNS conforme as instruções fornecidas na conversa.
+Principais ajustes:
+- roxo Verbare #291A41 como cor principal;
+- verde/turquesa #66C3C3 como cor de direção e destaque;
+- branco como cor de respiro;
+- uso do logotipo oficial em SVG;
+- remoção dos antigos acentos vermelho/laranja;
+- layout responsivo preservado;
+- conteúdo e links do site original preservados.
 
-Canal do podcast:
-https://www.youtube.com/@nunca_imaginei
+Estrutura:
+- index.html
+- assets/verbare-logo-negative.svg
+- assets/verbare-logo-positive.svg
+
+Publicação no GitHub Pages:
+Envie index.html e a pasta assets para a raiz do repositório e faça commit na branch publicada.
